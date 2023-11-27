@@ -11,7 +11,7 @@ These concepts are the main used concepts in the project solution, kindly read t
 | Concept   |      Resources      |
 |----------|:-------------:|
 | IP Addresses |  [What is an IP Address (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/IP_Address) |
-| Host/Domain Name |    [Lenovo documentation of what is a host name ](https://www.lenovo.com/us/en/glossary/hostname/?orgRef=https%253A%252F%252Fwww.google.com%252F)   |
+| Host/Domain Name |    [Lenovo documentation of what is a host name ](https://www.lenovo.com/us/en/glossary/hostname/?orgRef=https%253A%252F%252Fwww.google.com%252F), [Hostname Documentation by IBM](https://www.ibm.com/docs/en/i/7.2?topic=services-domain-name-system)  |
 | InetAddress Package (Java) | [InetAddress documentation](https://docs.oracle.com/javase/8/docs/api/java/net/InetAddress.html) |
 
 
