@@ -1,6 +1,6 @@
 # IP Address Resolver Project
 
-**Objectives**
+**Objective**
 
 In this project we want to focus on network concepts that could be used to develop applications.
 
